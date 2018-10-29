@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XZLib_Example' do
+  pod 'XZLib', :path => '../'
+
+  target 'XZLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
