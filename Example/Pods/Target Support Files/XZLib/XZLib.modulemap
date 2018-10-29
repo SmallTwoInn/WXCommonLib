@@ -1,0 +1,6 @@
+framework module XZLib {
+  umbrella header "XZLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XZLib (0.1.0)
+
+DEPENDENCIES:
+  - XZLib (from `../`)
+
+EXTERNAL SOURCES:
+  XZLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XZLib: 18852311d0cf95de438bc68be18772f188379090
+
+PODFILE CHECKSUM: cb89c1d293dca5acdbe0236107daccd15c06f08b
+
+COCOAPODS: 1.3.1
